@@ -3,6 +3,9 @@
 .terraform/
 *.tfvars
 
+terraform/sensitive/
 notes.md
 
 .vscode/
+
+payload.json
